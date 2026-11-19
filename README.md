@@ -1,7 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Code and data to reproduce the figures and the scientometric analysis in: "Exploring Copy Number Variation (CNV) in insects: a recommended bioinformatics workflow for CNV identification"
-
+Code and data to reproduce the figures and the scientometric analysis in: "Copy Number Variation (CNV) in insects: a systematic review and a literature-based bioinformatics workflow for CNV identification"
 ---
 
 ## Repository structure
